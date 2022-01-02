@@ -1,0 +1,20 @@
+git config    git != github.
+
+
+git config --global user.name "danny"
+git config --global user.email danny121314151617@hotmail.com
+
+
+git init
+git status
+
+git add (file)
+git add .  // add all uncommit file
+
+
+git commit -m "Commit msg"
+
+git log x
+
+
+xxxxx
