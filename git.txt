@@ -17,8 +17,6 @@ git commit -m "Commit msg"
 git log x
 
 
-
-
 git checkout (branch hash code)  // go to branch
 git checkout master (go back to the lastest ver.)
 
@@ -26,7 +24,9 @@ git checkout master (go back to the lastest ver.)
 git branch // view all branch
 git branch (new branch) // create new branch for new idea new things.
 
+
 git merge (branch name)  //merge all changes to master branch
 
-
-xxxxx
+git remote add origin https://github.com/dabby123/TestGit.git
+git pull origin master
+xxxxx2
